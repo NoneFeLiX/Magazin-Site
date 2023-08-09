@@ -1,0 +1,4 @@
+function onClick() {
+  confirm("Уйти с сайта?");
+  window.location = 'https://youtube.com/@0fenix';
+}
